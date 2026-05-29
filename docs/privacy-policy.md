@@ -44,7 +44,6 @@ In Short: We process your information to provide, improve, and administer our Se
 We process your personal information for a variety of reasons, depending on how you interact with our Services, including:
 To deliver and facilitate delivery of services to the user. We may process your information to provide you with the requested service.
 To protect our Services. We may process your information as part of our efforts to keep our Services safe and secure, including fraud monitoring and prevention.
-To identify usage trends. We may process information about how you use our Services to better understand how they are used so we can improve them.
 To save or protect an individual's vital interest. We may process your information when necessary to save or protect an individual's vital interest, such as to prevent harm.
 3. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR INFORMATION?
 In Short: We only process your personal information when we believe it is necessary and we have a valid legal reason (i.e., legal basis) to do so under applicable law, like with your consent, to comply with laws, to provide you with services to enter into or fulfill our contractual obligations, to protect your rights, or to fulfill our legitimate business interests.
