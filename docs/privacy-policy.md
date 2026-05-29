@@ -152,8 +152,7 @@ We may update this Privacy Notice from time to time. The updated version will be
 13. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 If you have questions or comments about this notice, you may email us at support.fade@gmail.com or contact us by post at:
 Murat Demirbaş
-Site Mah.
-Istanbul 34760
+Istanbul
 Turkey
 14. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 Based on the applicable laws of your country or state of residence in the US, you may have the right to request access to the personal information we collect from you, details about how we have processed it, correct inaccuracies, or delete your personal information. You may also have the right to withdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law. To request to review, update, or delete your personal information, please visit: support.fade@gmail.com.
