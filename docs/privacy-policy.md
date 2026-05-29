@@ -14,7 +14,7 @@ How do we process your information? We process your information to provide, impr
 In what situations and with which parties do we share personal information? We may share information in specific situations and with specific third parties. Learn more about when and with whom we share your personal information.
 How do we keep your information safe? We have adequate organizational and technical processes and procedures in place to protect your personal information. However, no electronic transmission over the internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Learn more about how we keep your information safe.
 What are your rights? Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. Learn more about your privacy rights.
-How do you exercise your rights? The easiest way to exercise your rights is by visiting support.fade@gmail.com, or by contacting us. We will consider and act upon any request in accordance with applicable data protection laws.
+How do you exercise your rights? The easiest way to exercise your rights is by contacting us via email at support.fade@gmail.com. We will consider and act upon any request in accordance with applicable data protection laws.
 Want to learn more about what we do with any information we collect? Review the Privacy Notice in full.
 TABLE OF CONTENTS
 WHAT INFORMATION DO WE COLLECT?
@@ -38,8 +38,7 @@ In Short: We collect personal information that you provide to us.
 We collect personal information that you voluntarily provide to us when you express an interest in obtaining information about us or our products and Services, when you participate in activities on the Services, or otherwise when you contact us.
 Sensitive Information. We do not process sensitive information.
 Application Data. If you use our application(s), we also may collect the following information if you choose to provide us with access or permission:
-Mobile Device Access. We may request access or permission to certain features from your mobile device, including your mobile device's camera, microphone, storage, and other features. If you wish to change our access or permissions, you may do so in your device's settings.
-This information is strictly used to enable core features of the Application, such as capturing photos and recording audio notes within the app.
+Mobile Device Access. We may request access or permission to certain features from your mobile device, including your mobile device's camera, microphone, and storage. This access is strictly required to enable you to take photos and record audio notes directly within the app. This data is processed exclusively on your device and is not collected or viewed by us.
 All personal information that you provide to us must be true, complete, and accurate, and you must notify us of any changes to such personal information.
 2. HOW DO WE PROCESS YOUR INFORMATION?
 In Short: We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your personal information for the following purposes listed below. We may also process your information for other purposes only with your prior explicit consent.
@@ -78,14 +77,11 @@ We may disclose de-identified information for approved research or statistics pr
 In Short: We may share information in specific situations described in this section and/or with the following third parties.
 We may need to share your personal information in the following situations:
 Business Transfers. We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.
-5. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?
-In Short: We may transfer, store, and process your information in countries other than your own.
-Our servers are located in the United States. Regardless of your location, please be aware that your information may be transferred to, stored by, and processed by us in our facilities and in the facilities of the third parties with whom we may share your personal information (see "WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?" above), including facilities in the United States, and other countries.
-If you are a resident in the European Economic Area (EEA), United Kingdom (UK), or Switzerland, then these countries may not necessarily have data protection laws or other similar laws as comprehensive as those in your country. However, we will take all necessary measures to protect your personal information in accordance with this Privacy Notice and applicable law.
-European Commission's Standard Contractual Clauses:
-We have implemented measures to protect your personal information, including by using the European Commission's Standard Contractual Clauses for transfers of personal information between our group companies and between us and our third-party providers. These clauses require all recipients to protect all personal information that they process originating from the EEA or UK in accordance with European data protection laws and regulations. Our Standard Contractual Clauses can be provided upon request. We have implemented similar appropriate safeguards with our third-party service providers and partners and further details can be provided upon request.
+5. DATA STORAGE AND LOCAL PROCESSING
+In Short: Your notes, photos, and audio recordings are stored locally on your device and are never uploaded to our servers.
+All user-generated content (text notes, photos, and audio recordings) is managed and stored strictly within your mobile device's local storage. We do not operate cloud servers to store your personal notes, nor do we have access to them.
 6. HOW LONG DO WE KEEP YOUR INFORMATION?
-In Short: We keep your information for as long as necessary to fulfill the purposes outlined in this Privacy Notice unless otherwise required by law.
+In Short: User-generated notes, photos, and audio recordings are automatically deleted from your device after the selected retention period (24, 48, or 72 hours), or when you manually delete them. We do not retain copies of your data.
 We will only keep your personal information for as long as it is necessary for the purposes set out in this Privacy Notice, unless a longer retention period is required or permitted by law (such as tax, accounting, or other legal requirements). No purpose in this notice will require us keeping your personal information for longer than user-generated notes, photos, and audio recordings are automatically deleted after the user-selected retention period, such as 24, 48, or 72 hours, unless the user manually deletes them earlier..
 When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize such information, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
 7. HOW DO WE KEEP YOUR INFORMATION SAFE?
