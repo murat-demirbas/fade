@@ -39,7 +39,7 @@ We collect personal information that you voluntarily provide to us when you expr
 Sensitive Information. We do not process sensitive information.
 Application Data. If you use our application(s), we also may collect the following information if you choose to provide us with access or permission:
 Mobile Device Access. We may request access or permission to certain features from your mobile device, including your mobile device's camera, microphone, storage, and other features. If you wish to change our access or permissions, you may do so in your device's settings.
-This information is primarily needed to maintain the security and operation of our application(s), for troubleshooting, and for our internal analytics and reporting purposes.
+This information is strictly used to enable core features of the Application, such as capturing photos and recording audio notes within the app.
 All personal information that you provide to us must be true, complete, and accurate, and you must notify us of any changes to such personal information.
 2. HOW DO WE PROCESS YOUR INFORMATION?
 In Short: We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your personal information for the following purposes listed below. We may also process your information for other purposes only with your prior explicit consent.
